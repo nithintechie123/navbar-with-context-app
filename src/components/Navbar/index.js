@@ -45,7 +45,7 @@ const Navbar = () => (
         <nav className={`nav-container ${navBarClassName}`}>
           <img
             src={toggleWebsiteLogo}
-            alt="website-logo"
+            alt="website logo"
             className="website-logo"
           />
           <ul className="menu-container">
